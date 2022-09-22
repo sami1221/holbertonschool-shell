@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod u+x permissions/hello
+chmod u+x permissions/hello
